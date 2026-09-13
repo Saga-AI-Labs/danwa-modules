@@ -119,7 +119,7 @@
         },
         "url": {
           "type": "string",
-          "description": "Repository URL, e.g. 'https://github.com/asb-42/danwa-modules'"
+          "description": "Repository URL, e.g. 'https://github.com/Saga-AI-Labs/danwa-modules'"
         },
         "ref": {
           "type": "string",

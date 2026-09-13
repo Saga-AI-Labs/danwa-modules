@@ -155,7 +155,7 @@ def main() -> None:
     run(["git", "push", "origin", new_tag])
 
     print(f"\n✅ Released {new_tag} — CI workflow should start automatically.")
-    print(f"   https://github.com/asb-42/danwa-modules/actions")
+    print(f"   https://github.com/Saga-AI-Labs/danwa-modules/actions")
 
 
 if __name__ == "__main__":

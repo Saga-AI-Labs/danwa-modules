@@ -1,6 +1,6 @@
 # danwa-modules
 
-Community module repository for the [Danwa Debate Engine](https://github.com/asb-42/danwa).
+Community module repository for the [Danwa Debate Engine](https://github.com/Saga-AI-Labs/danwa).
 
 ## Overview
 
@@ -29,7 +29,7 @@ or via the API:
 POST /api/v1/modules/install-from-repo
 {
   "source": "github",
-  "repo": "asb-42/danwa-modules",
+  "repo": "Saga-AI-Labs/danwa-modules",
   "module_id": "bundle-critic",
   "version": "1.0.0"
 }

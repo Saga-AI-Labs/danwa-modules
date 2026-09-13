@@ -63,7 +63,7 @@ def build_module_entry(manifest_path: Path) -> dict | None:
 
     category = find_category(module_dir)
     download_url = (
-        f"https://github.com/asb-42/danwa-modules/releases/download/"
+        f"https://github.com/Saga-AI-Labs/danwa-modules/releases/download/"
         f"v{version}/{module_id}.zip"
     )
 
@@ -108,7 +108,7 @@ def main() -> None:
     index = {
         "generated_at": now,
         "schema_version": "3.0.0",
-        "repository": "https://github.com/asb-42/danwa-modules",
+        "repository": "https://github.com/Saga-AI-Labs/danwa-modules",
         "total_modules": len(modules),
         "modules": modules,
     }

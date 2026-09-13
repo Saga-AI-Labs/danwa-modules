@@ -42,7 +42,7 @@ This module requires a **separately installed Fish Speech server**. The Danwa mo
    POST /api/v1/modules/install-from-repo
    {
      "source": "github",
-     "repo": "asb-42/danwa-modules",
+     "repo": "Saga-AI-Labs/danwa-modules",
      "module_id": "tts-fishspeech",
      "version": "1.0.0"
    }

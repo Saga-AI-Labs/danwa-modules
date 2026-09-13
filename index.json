@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-30T17:22:10.961119+00:00",
   "schema_version": "3.0.0",
-  "repository": "https://github.com/asb-42/danwa-modules",
+  "repository": "https://github.com/Saga-AI-Labs/danwa-modules",
   "total_modules": 157,
   "modules": [
     {
@@ -20,7 +20,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "3c3b2d16732e2f708b075ef35c59c8d5b8d44e67550c60f4c7366913abefb1f5",
       "module_checksum_sha256": "3c3b2d16732e2f708b075ef35c59c8d5b8d44e67550c60f4c7366913abefb1f5",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ap-06aa392f-a00a-555d-8e44-338cfaee8943.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ap-06aa392f-a00a-555d-8e44-338cfaee8943.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -51,7 +51,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "4ed2a9602e3a111e0df59e9ab8e3c7df4032a93520d54a69fbfc36b4bad778f0",
       "module_checksum_sha256": "4ed2a9602e3a111e0df59e9ab8e3c7df4032a93520d54a69fbfc36b4bad778f0",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ap-1c3a6ad4-3c33-5e35-8ab4-c75cbdb9deb9.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ap-1c3a6ad4-3c33-5e35-8ab4-c75cbdb9deb9.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -82,7 +82,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "8a0630d8723524ac7e0148333f0a1124b5699c71075cec59e0f78ab2e464b123",
       "module_checksum_sha256": "8a0630d8723524ac7e0148333f0a1124b5699c71075cec59e0f78ab2e464b123",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ap-3992ff2d-fc75-5b74-9def-2387fcaa0c2d.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ap-3992ff2d-fc75-5b74-9def-2387fcaa0c2d.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -113,7 +113,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "c8b0dbe785375ca9b687f5271da5d6c04ff4bb5add8ebb5ea689d26bf264d7a7",
       "module_checksum_sha256": "c8b0dbe785375ca9b687f5271da5d6c04ff4bb5add8ebb5ea689d26bf264d7a7",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ap-3e868ab7-98b8-50d9-87b8-7ff42430e8e6.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ap-3e868ab7-98b8-50d9-87b8-7ff42430e8e6.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -144,7 +144,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "07f713d54bfb71abb03f30e722d31eb21e8a198ea6964681b6f590af0b630d1f",
       "module_checksum_sha256": "07f713d54bfb71abb03f30e722d31eb21e8a198ea6964681b6f590af0b630d1f",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ap-4726260a-c35c-531c-bd05-d48dbc32ac15.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ap-4726260a-c35c-531c-bd05-d48dbc32ac15.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -175,7 +175,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "4081d545cf842a6493aadb8c2160f4ce9622c15e0f5b0dd795cced78251f27b3",
       "module_checksum_sha256": "4081d545cf842a6493aadb8c2160f4ce9622c15e0f5b0dd795cced78251f27b3",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ap-53baf28c-1c08-5f67-bcb1-42887879b8d3.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ap-53baf28c-1c08-5f67-bcb1-42887879b8d3.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -206,7 +206,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "e257a3df3eb82bb050c94fa6984bd7eaa3145fc9265371219e35edb833a3adae",
       "module_checksum_sha256": "e257a3df3eb82bb050c94fa6984bd7eaa3145fc9265371219e35edb833a3adae",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ap-6be6ecaf-03dd-50ea-8d3c-1a0b0a406cdd.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ap-6be6ecaf-03dd-50ea-8d3c-1a0b0a406cdd.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -237,7 +237,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "38c506b4b6e9ee3547b7b247325d5e45f0ce5a7cbbcea23bb4f3a3a5f1b6b15a",
       "module_checksum_sha256": "38c506b4b6e9ee3547b7b247325d5e45f0ce5a7cbbcea23bb4f3a3a5f1b6b15a",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ap-9bb6adab-08f6-5a8f-940b-7d2596642d09.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ap-9bb6adab-08f6-5a8f-940b-7d2596642d09.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -268,7 +268,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "90aa94838e4f26857b2d11f11f82b97cc2be528312a33146c97fa2dbb8cd5e91",
       "module_checksum_sha256": "90aa94838e4f26857b2d11f11f82b97cc2be528312a33146c97fa2dbb8cd5e91",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ap-bc774474-64da-5f00-b5f1-b071dd284bfe.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ap-bc774474-64da-5f00-b5f1-b071dd284bfe.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -299,7 +299,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "13217feeabba59a0a8c418fd7e742238f66123c9e18c0e862af47bef6194e975",
       "module_checksum_sha256": "13217feeabba59a0a8c418fd7e742238f66123c9e18c0e862af47bef6194e975",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ap-d75a4b7b-d343-5499-bdec-360ac07abe8c.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ap-d75a4b7b-d343-5499-bdec-360ac07abe8c.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -330,7 +330,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "a879fa15a4ddd343d91f643a63537e2e1bd82686408cbe02ec018ae57646cf33",
       "module_checksum_sha256": "a879fa15a4ddd343d91f643a63537e2e1bd82686408cbe02ec018ae57646cf33",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ap-ecaa9071-cf69-57ee-897c-ff113d3b06e5.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ap-ecaa9071-cf69-57ee-897c-ff113d3b06e5.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -361,7 +361,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "3d3d86b250a2ca213b2f91e143f6640080e75e7a60016f312f1553ec65246fc3",
       "module_checksum_sha256": "3d3d86b250a2ca213b2f91e143f6640080e75e7a60016f312f1553ec65246fc3",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ap-efd69837-dab2-5ba4-897c-430a0988455e.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ap-efd69837-dab2-5ba4-897c-430a0988455e.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -392,7 +392,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "7254c68cf47d44bd49d9cca0010854eaf7470691c6ab780e79520c29626facf4",
       "module_checksum_sha256": "7254c68cf47d44bd49d9cca0010854eaf7470691c6ab780e79520c29626facf4",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/bd-047737ab-ccfc-5082-868e-e7144f7eab36.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/bd-047737ab-ccfc-5082-868e-e7144f7eab36.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -425,7 +425,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "613815c7dbf2c31eeb6dd0d31520bec97561e4744940035e50c34230cdd7a011",
       "module_checksum_sha256": "613815c7dbf2c31eeb6dd0d31520bec97561e4744940035e50c34230cdd7a011",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/bd-141dd046-f933-5ae5-91e4-9f7c59e2d5ab.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/bd-141dd046-f933-5ae5-91e4-9f7c59e2d5ab.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -458,7 +458,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "cb949f2499d5d3bc47ef52b561b5eb443ef03c5cf347ad19c65d46d8b501d46a",
       "module_checksum_sha256": "cb949f2499d5d3bc47ef52b561b5eb443ef03c5cf347ad19c65d46d8b501d46a",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/bd-2a088d7e-4b9a-5f62-8eb6-866b17086028.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/bd-2a088d7e-4b9a-5f62-8eb6-866b17086028.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -491,7 +491,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "2370b80b68436cb6fc4f6337517c787cb6814e899ed3115346b8fd1ed1be9e2e",
       "module_checksum_sha256": "2370b80b68436cb6fc4f6337517c787cb6814e899ed3115346b8fd1ed1be9e2e",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/bd-3ab2b815-91ef-5d1f-9539-f960b5ec7a3b.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/bd-3ab2b815-91ef-5d1f-9539-f960b5ec7a3b.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -524,7 +524,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "65a4f089cf72bb7375f08cdb3bf5f93d9b7acb9e2660808264637e910f316714",
       "module_checksum_sha256": "65a4f089cf72bb7375f08cdb3bf5f93d9b7acb9e2660808264637e910f316714",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/bd-3b09d17a-6357-512a-9aa2-4a2460fb9794.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/bd-3b09d17a-6357-512a-9aa2-4a2460fb9794.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -557,7 +557,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "7a2ea0b31d631f8861e0379a7766c16604bea14c41dd628c09496045f7faf6cd",
       "module_checksum_sha256": "7a2ea0b31d631f8861e0379a7766c16604bea14c41dd628c09496045f7faf6cd",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/bd-3b7f5509-a7f2-583e-a2c8-676cb8fc3e73.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/bd-3b7f5509-a7f2-583e-a2c8-676cb8fc3e73.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -590,7 +590,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "d5fe2b2666173efdbd046d06a16af1576c5c617d6f93ad918a2abfad60ff8dac",
       "module_checksum_sha256": "d5fe2b2666173efdbd046d06a16af1576c5c617d6f93ad918a2abfad60ff8dac",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/bd-5712b169-d321-5621-a69f-fd9b0e1aa6a4.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/bd-5712b169-d321-5621-a69f-fd9b0e1aa6a4.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -623,7 +623,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "2db251d1516433d0791525a41f8a7bd35fa66a3f477e569671f35b8bc537a382",
       "module_checksum_sha256": "2db251d1516433d0791525a41f8a7bd35fa66a3f477e569671f35b8bc537a382",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/bd-60b21d06-d1ed-54f7-8ddd-c9d03eec39be.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/bd-60b21d06-d1ed-54f7-8ddd-c9d03eec39be.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -656,7 +656,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "702bee3e6266a359ce010fdb89a9902ba7b2abe1fabbf2c2212a0edee3681d95",
       "module_checksum_sha256": "702bee3e6266a359ce010fdb89a9902ba7b2abe1fabbf2c2212a0edee3681d95",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/bd-76f5dc95-b8cd-5af5-94e4-2dfed2de76ee.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/bd-76f5dc95-b8cd-5af5-94e4-2dfed2de76ee.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -689,7 +689,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "815c37a126dac079878d1ab93f57eda1f16890c63fbe5672d2d0a0bdf43fc971",
       "module_checksum_sha256": "815c37a126dac079878d1ab93f57eda1f16890c63fbe5672d2d0a0bdf43fc971",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/bd-8edae5c3-5e3b-5c5b-8869-0be3b7330271.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/bd-8edae5c3-5e3b-5c5b-8869-0be3b7330271.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -722,7 +722,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "3210cbdf9ef17e4c4dd73a0337e55ad58e982e91b63e3da38dd596576f14f52b",
       "module_checksum_sha256": "3210cbdf9ef17e4c4dd73a0337e55ad58e982e91b63e3da38dd596576f14f52b",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/bd-c4af9eec-e97e-5ba8-8ffd-f7b0af60e9a5.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/bd-c4af9eec-e97e-5ba8-8ffd-f7b0af60e9a5.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -755,7 +755,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "45530c8b7153a36093c24a7156db149da5614262741c7cfa8760ebbbbb47f563",
       "module_checksum_sha256": "45530c8b7153a36093c24a7156db149da5614262741c7cfa8760ebbbbb47f563",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/bd-d17626c0-0c26-52b6-9700-ee1ccc321559.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/bd-d17626c0-0c26-52b6-9700-ee1ccc321559.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -788,7 +788,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "8069afa39fd124de1b5e72207fec6239cedfdb2e45a5a942f74c9a999c10b747",
       "module_checksum_sha256": "8069afa39fd124de1b5e72207fec6239cedfdb2e45a5a942f74c9a999c10b747",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/bd-ec4cb25d-bc56-562d-a0e5-ce0a4b53128b.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/bd-ec4cb25d-bc56-562d-a0e5-ce0a4b53128b.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -821,7 +821,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "9a8cc2eb939840ec4fde087174880421436245e68699bac61466b6b9d1163657",
       "module_checksum_sha256": "9a8cc2eb939840ec4fde087174880421436245e68699bac61466b6b9d1163657",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/bd-f2e7af6f-98d0-5beb-9415-f23ea62752cc.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/bd-f2e7af6f-98d0-5beb-9415-f23ea62752cc.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -854,7 +854,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "706012131bc91481e907e5d60ca6e885d1b5f1ad8831bcdef72cebd7d4ac4f84",
       "module_checksum_sha256": "706012131bc91481e907e5d60ca6e885d1b5f1ad8831bcdef72cebd7d4ac4f84",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/bd-f52e5ab5-02ab-5820-885d-1b1b656a33bc.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/bd-f52e5ab5-02ab-5820-885d-1b1b656a33bc.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -887,7 +887,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "1ec5399d7a7054cf0884384fc2225a688ad45841d84cc98d23697f05e308ec9c",
       "module_checksum_sha256": "1ec5399d7a7054cf0884384fc2225a688ad45841d84cc98d23697f05e308ec9c",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-0e5e3777-04fe-52f0-9dfb-3088d94b6029.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-0e5e3777-04fe-52f0-9dfb-3088d94b6029.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -917,7 +917,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "1edf8dd5245819cad925d6e3e4c3da20a0626c5370c65f7f086b0baf98641989",
       "module_checksum_sha256": "1edf8dd5245819cad925d6e3e4c3da20a0626c5370c65f7f086b0baf98641989",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-24d8593f-5f91-54dc-a53d-d2b9e814bc36.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-24d8593f-5f91-54dc-a53d-d2b9e814bc36.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -947,7 +947,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "4081d545cf842a6493aadb8c2160f4ce9622c15e0f5b0dd795cced78251f27b3",
       "module_checksum_sha256": "4081d545cf842a6493aadb8c2160f4ce9622c15e0f5b0dd795cced78251f27b3",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-2d6425b7-a04c-58af-a4f4-dd16c7eee9bb.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-2d6425b7-a04c-58af-a4f4-dd16c7eee9bb.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -978,7 +978,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "aeb3d20a7814029160b055d40c6afc0143ac856f4998e1b0c29f2277ae1c86b8",
       "module_checksum_sha256": "aeb3d20a7814029160b055d40c6afc0143ac856f4998e1b0c29f2277ae1c86b8",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-38616db7-6d06-5b83-b446-e1063ca856b3.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-38616db7-6d06-5b83-b446-e1063ca856b3.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1008,7 +1008,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "07f713d54bfb71abb03f30e722d31eb21e8a198ea6964681b6f590af0b630d1f",
       "module_checksum_sha256": "07f713d54bfb71abb03f30e722d31eb21e8a198ea6964681b6f590af0b630d1f",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-3979564e-9c6e-55b7-bf1f-fcf515dd94e8.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-3979564e-9c6e-55b7-bf1f-fcf515dd94e8.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1039,7 +1039,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "d29499b869bb8d07b019c128369d3181557b3f5d93e8a0b91e8221b4af0fa5f6",
       "module_checksum_sha256": "d29499b869bb8d07b019c128369d3181557b3f5d93e8a0b91e8221b4af0fa5f6",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-3a583276-e351-5a5d-bbb6-8c1bf7dfb563.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-3a583276-e351-5a5d-bbb6-8c1bf7dfb563.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1069,7 +1069,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "5d87ab0644c8dcf104128c918abae0a58196e6e11539c436a13286347b31f944",
       "module_checksum_sha256": "5d87ab0644c8dcf104128c918abae0a58196e6e11539c436a13286347b31f944",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-3debf8c9-1b03-5c4f-9034-6efc1ed6bffb.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-3debf8c9-1b03-5c4f-9034-6efc1ed6bffb.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1100,7 +1100,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "400cbf7a9878af04d29f8a15f960f70caff4c3978741d37e26c6ec927e6220e2",
       "module_checksum_sha256": "400cbf7a9878af04d29f8a15f960f70caff4c3978741d37e26c6ec927e6220e2",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-45f70b53-b22c-575a-992f-50904409c986.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-45f70b53-b22c-575a-992f-50904409c986.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1127,7 +1127,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "94be20b8e03bc93304765a37e864374fd79eb384a810d767208b9cfe4fc8585c",
       "module_checksum_sha256": "94be20b8e03bc93304765a37e864374fd79eb384a810d767208b9cfe4fc8585c",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-46be42ec-b359-5cda-af5f-8d3411ce1e95.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-46be42ec-b359-5cda-af5f-8d3411ce1e95.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1157,7 +1157,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "f8326ed6195adf2be75f46515bb384ef05ce2669e980236fc92c4e7150a10258",
       "module_checksum_sha256": "f8326ed6195adf2be75f46515bb384ef05ce2669e980236fc92c4e7150a10258",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-4cf1ade6-ca8d-5e8a-a1d2-f5385ce051ef.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-4cf1ade6-ca8d-5e8a-a1d2-f5385ce051ef.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1189,7 +1189,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "d4b7b67e62559b28a656fdb7a229a99c840387e2eb8bcc761ba134ecc89d6a4a",
       "module_checksum_sha256": "d4b7b67e62559b28a656fdb7a229a99c840387e2eb8bcc761ba134ecc89d6a4a",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-4d658b64-9b6f-5dda-855b-25dc28f70404.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-4d658b64-9b6f-5dda-855b-25dc28f70404.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1221,7 +1221,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "250f3c7ed91dc931e35306911747affc3d30a7c57a27de6ca956364984148e18",
       "module_checksum_sha256": "250f3c7ed91dc931e35306911747affc3d30a7c57a27de6ca956364984148e18",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-50f060c1-7e68-50c5-909d-604ad490122b.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-50f060c1-7e68-50c5-909d-604ad490122b.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1253,7 +1253,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "f2201ae0a56abc0278b26b237d5fe05ed20f25b477ba17839e26d92ca2fefcb6",
       "module_checksum_sha256": "f2201ae0a56abc0278b26b237d5fe05ed20f25b477ba17839e26d92ca2fefcb6",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-56f0eec0-d3dc-5fda-a8af-7feb91d91a34.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-56f0eec0-d3dc-5fda-a8af-7feb91d91a34.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1284,7 +1284,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "131ec3cdba2dfca0a5c5517f23c01b9d54763583fea044a0677b2cebd6c71d83",
       "module_checksum_sha256": "131ec3cdba2dfca0a5c5517f23c01b9d54763583fea044a0677b2cebd6c71d83",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-6891918e-20bd-5bf9-a785-b2bca2f27385.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-6891918e-20bd-5bf9-a785-b2bca2f27385.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1314,7 +1314,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "e70db3054b508c6ab3795b0af4b3f11b0f2e37cb900f6125bbc966c6c96a39df",
       "module_checksum_sha256": "e70db3054b508c6ab3795b0af4b3f11b0f2e37cb900f6125bbc966c6c96a39df",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-690b9d79-a788-5aed-8653-ad5d9122c5f5.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-690b9d79-a788-5aed-8653-ad5d9122c5f5.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1344,7 +1344,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "52634c214008f98f06d86a105b857acf7e69c81e8aa8695489edcf9671118f8f",
       "module_checksum_sha256": "52634c214008f98f06d86a105b857acf7e69c81e8aa8695489edcf9671118f8f",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-69958030-8440-5d8a-919f-628b573b5d71.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-69958030-8440-5d8a-919f-628b573b5d71.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1374,7 +1374,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "5ee2c4def224b328ad90a7603bb2273df180594921865532ee7ff70495a09bd5",
       "module_checksum_sha256": "5ee2c4def224b328ad90a7603bb2273df180594921865532ee7ff70495a09bd5",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-6dc6474a-c462-5a0b-b855-42de5b289583.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-6dc6474a-c462-5a0b-b855-42de5b289583.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1406,7 +1406,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "90b183c361103564d5a0a089a945df37465160a1edc5fab8206287a4b6118b4b",
       "module_checksum_sha256": "90b183c361103564d5a0a089a945df37465160a1edc5fab8206287a4b6118b4b",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-780d142b-2d0a-5da4-b3a2-a3218a3cfa7d.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-780d142b-2d0a-5da4-b3a2-a3218a3cfa7d.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1436,7 +1436,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "3c3b2d16732e2f708b075ef35c59c8d5b8d44e67550c60f4c7366913abefb1f5",
       "module_checksum_sha256": "3c3b2d16732e2f708b075ef35c59c8d5b8d44e67550c60f4c7366913abefb1f5",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-82a54c1a-cf1b-5d91-b7a8-bb198720f329.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-82a54c1a-cf1b-5d91-b7a8-bb198720f329.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1467,7 +1467,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "4dcc9efdcc188a89fabdc1a22598e5e332f34bfb7e00a866dd7333116ae722b9",
       "module_checksum_sha256": "4dcc9efdcc188a89fabdc1a22598e5e332f34bfb7e00a866dd7333116ae722b9",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-898ae8c5-cc7c-5e97-96b8-39154aa1b9bd.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-898ae8c5-cc7c-5e97-96b8-39154aa1b9bd.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1498,7 +1498,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "738ae3b47cf61566fdd913b9eec8a91f1350b58b92a99fb257db00a5a7cbf4c7",
       "module_checksum_sha256": "738ae3b47cf61566fdd913b9eec8a91f1350b58b92a99fb257db00a5a7cbf4c7",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-96392ba1-ef55-5598-bab3-1c90fc9aba9d.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-96392ba1-ef55-5598-bab3-1c90fc9aba9d.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1529,7 +1529,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "28a7de740de6196c0d1da40e2c6e6b9cec29b0d951eb32cb81f26f4f63f82124",
       "module_checksum_sha256": "28a7de740de6196c0d1da40e2c6e6b9cec29b0d951eb32cb81f26f4f63f82124",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-998f5104-22a6-55e0-a916-767b509f36c6.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-998f5104-22a6-55e0-a916-767b509f36c6.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1560,7 +1560,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "90e9644995e439de7ce43ca7a96a21fda00d831e97937116342c699a3a2fd9e8",
       "module_checksum_sha256": "90e9644995e439de7ce43ca7a96a21fda00d831e97937116342c699a3a2fd9e8",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-9b9eeb8d-03cb-5a7c-9446-77a9d48bb9e4.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-9b9eeb8d-03cb-5a7c-9446-77a9d48bb9e4.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1590,7 +1590,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "921190f6867a48818cf1031d717225bd2571d5731d9abc1cb3227dcaca6d0d2e",
       "module_checksum_sha256": "921190f6867a48818cf1031d717225bd2571d5731d9abc1cb3227dcaca6d0d2e",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-a267754d-704e-59d8-93d4-8b475c8f2a2d.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-a267754d-704e-59d8-93d4-8b475c8f2a2d.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1620,7 +1620,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "90aa94838e4f26857b2d11f11f82b97cc2be528312a33146c97fa2dbb8cd5e91",
       "module_checksum_sha256": "90aa94838e4f26857b2d11f11f82b97cc2be528312a33146c97fa2dbb8cd5e91",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-baf3b160-da58-5e9d-b7b4-79b6a262568c.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-baf3b160-da58-5e9d-b7b4-79b6a262568c.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1651,7 +1651,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "2f4bb701a17c3bf5fbedb811508cc131a329cfeddfe5bcb1ef5e0f3ffc17238f",
       "module_checksum_sha256": "2f4bb701a17c3bf5fbedb811508cc131a329cfeddfe5bcb1ef5e0f3ffc17238f",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-c0c4244a-f1e9-5f42-95bf-278e2f3179eb.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-c0c4244a-f1e9-5f42-95bf-278e2f3179eb.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1684,7 +1684,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "567222e7757c9531832c3451c170e4e6c6920d32e506dd65ee088fbb57e15617",
       "module_checksum_sha256": "567222e7757c9531832c3451c170e4e6c6920d32e506dd65ee088fbb57e15617",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-c789933b-a928-5e14-9cf7-645aba6c0fb9.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-c789933b-a928-5e14-9cf7-645aba6c0fb9.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1714,7 +1714,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "b46997331ddbe57c101232f1c467914b3605fd42a194b25b99ed0e758a5c0105",
       "module_checksum_sha256": "b46997331ddbe57c101232f1c467914b3605fd42a194b25b99ed0e758a5c0105",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-caaad878-ea18-53c1-af54-f07b31848210.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-caaad878-ea18-53c1-af54-f07b31848210.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1744,7 +1744,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "45a45dc57cdf7c717007649520a02abe6f3aae05e5ecd821a96d7a652869953d",
       "module_checksum_sha256": "45a45dc57cdf7c717007649520a02abe6f3aae05e5ecd821a96d7a652869953d",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-d531663b-1455-52b1-91b5-6ef37097c051.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-d531663b-1455-52b1-91b5-6ef37097c051.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1774,7 +1774,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "98d9195041d383cc4a1893d432c98c1d15e0a6930c209a76be45271fd79e9846",
       "module_checksum_sha256": "98d9195041d383cc4a1893d432c98c1d15e0a6930c209a76be45271fd79e9846",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-d67adfde-6769-56db-bce3-fd5a77937732.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-d67adfde-6769-56db-bce3-fd5a77937732.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1804,7 +1804,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "7e14748107ac8b418d569aa373dd8aa9a8586d712eab33270e49c7ac68cc6158",
       "module_checksum_sha256": "7e14748107ac8b418d569aa373dd8aa9a8586d712eab33270e49c7ac68cc6158",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-dd4b423c-2768-508f-86c1-5593d68c96bc.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-dd4b423c-2768-508f-86c1-5593d68c96bc.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1834,7 +1834,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "ae78524f3731862d1e2102d50b10df9db90d75691de0a45871e38d950ef21723",
       "module_checksum_sha256": "a04b29a6e858ec1d49aa22cf1c649c8e045d7ece1500568536400e3a8a0fcb41",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-de0cb050-6af1-527c-b1a1-e602bc8e38dc.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-de0cb050-6af1-527c-b1a1-e602bc8e38dc.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1864,7 +1864,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "43f44a38a47f7608729d3a8bcb3426520456b7512d5cad2e7b2cae078ee8a477",
       "module_checksum_sha256": "43f44a38a47f7608729d3a8bcb3426520456b7512d5cad2e7b2cae078ee8a477",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-ec2202c3-39e3-52b4-8d15-e0d156ff1a69.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-ec2202c3-39e3-52b4-8d15-e0d156ff1a69.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1896,7 +1896,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "f587e64470bf85fb7b0c2d319d076bdb8ecd7b8d53c2ed4cbbf5453652a482de",
       "module_checksum_sha256": "f587e64470bf85fb7b0c2d319d076bdb8ecd7b8d53c2ed4cbbf5453652a482de",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ac-ef5bd745-7a3e-537d-a885-c706a0d5f79e.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ac-ef5bd745-7a3e-537d-a885-c706a0d5f79e.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1926,7 +1926,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "4881cd1db9afd922c314de5883877770f41cc633d3891f43ac4e5dc36077858c",
       "module_checksum_sha256": "4881cd1db9afd922c314de5883877770f41cc633d3891f43ac4e5dc36077858c",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/pm-061f5af8-9477-593f-859b-bada87176198.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/pm-061f5af8-9477-593f-859b-bada87176198.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1955,7 +1955,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "b38e17412b2eafe78a531af78e06fe33f1144984611cdfe2d6e62ed3e1b9a4be",
       "module_checksum_sha256": "b38e17412b2eafe78a531af78e06fe33f1144984611cdfe2d6e62ed3e1b9a4be",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/pm-225f56b1-a82f-5a1f-aace-2f6b585bd9af.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/pm-225f56b1-a82f-5a1f-aace-2f6b585bd9af.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -1984,7 +1984,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "a6fe4d3f65a97a25737aa1aac47a9a763b8cb924676351cc27cc3dea4acfb708",
       "module_checksum_sha256": "a6fe4d3f65a97a25737aa1aac47a9a763b8cb924676351cc27cc3dea4acfb708",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/tp-1baebe95-6759-57b3-abe6-f82c6f4e7359.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/tp-1baebe95-6759-57b3-abe6-f82c6f4e7359.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2011,7 +2011,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "30f869b5c8fccd06e26e73853a26f28f36df08794f0686f0e5c51dfc5ed810c9",
       "module_checksum_sha256": "30f869b5c8fccd06e26e73853a26f28f36df08794f0686f0e5c51dfc5ed810c9",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/tp-ce72bb09-f111-5c97-aedf-f0030d14d4f4.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/tp-ce72bb09-f111-5c97-aedf-f0030d14d4f4.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2038,7 +2038,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "2eeeeba99e3a7521c8735f047c078947331223ca3039477655e83343a44eff0c",
       "module_checksum_sha256": "2eeeeba99e3a7521c8735f047c078947331223ca3039477655e83343a44eff0c",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/tp-fa10c07a-53c1-5dab-999d-a03bf85ae0f2.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/tp-fa10c07a-53c1-5dab-999d-a03bf85ae0f2.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2067,7 +2067,7 @@
       "profile_file": "",
       "profile_checksum_sha256": "",
       "module_checksum_sha256": "768ae7a729bc6a554778bf1126f16b663a25e4f6597b058ddef8f8adef8d4e55",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/interactive-action-template-default.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/interactive-action-template-default.zip",
       "compatibility": {
         "danwa_min_version": "2.2.0",
         "danwa_max_version": null
@@ -2098,7 +2098,7 @@
       "profile_file": "profile.md",
       "profile_checksum_sha256": "cea87d9552a509399a00ef43fe3ea4f16a5a7467e937adfa5daee2b73a477663",
       "module_checksum_sha256": "cea87d9552a509399a00ef43fe3ea4f16a5a7467e937adfa5daee2b73a477663",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/ka-15d890fe-8cf2-5096-8570-0fcf40bf7354.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/ka-15d890fe-8cf2-5096-8570-0fcf40bf7354.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2127,7 +2127,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "d05d6ab6fdb42f33471ecf2003aaa40d0f59072c2039b866d6be10ee86d5173b",
       "module_checksum_sha256": "d05d6ab6fdb42f33471ecf2003aaa40d0f59072c2039b866d6be10ee86d5173b",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-018f1b67-40c2-468a-95a8-8a0fa92b68f3.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-018f1b67-40c2-468a-95a8-8a0fa92b68f3.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2152,7 +2152,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "d2a27f80c69767c9060a8f1f36931de36fe0a29bd619a9d9dacf838b12ada1bf",
       "module_checksum_sha256": "d2a27f80c69767c9060a8f1f36931de36fe0a29bd619a9d9dacf838b12ada1bf",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-0d14655f-c0a9-42ac-b62a-6cc23854e371.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-0d14655f-c0a9-42ac-b62a-6cc23854e371.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2177,7 +2177,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "f2fceb0132d91143c3635ba375df816057115cf614ad6e8bce2c39007f50dbf7",
       "module_checksum_sha256": "f2fceb0132d91143c3635ba375df816057115cf614ad6e8bce2c39007f50dbf7",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-26c82ce6-cbb7-4360-980b-6215545e8789.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-26c82ce6-cbb7-4360-980b-6215545e8789.zip",
       "compatibility": {},
       "dependencies": {},
       "tags": [],
@@ -2199,7 +2199,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "606b1957d4bb5784694f09b275b021f7df5ebb22d5f8862c623754c3409da849",
       "module_checksum_sha256": "606b1957d4bb5784694f09b275b021f7df5ebb22d5f8862c623754c3409da849",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-27e9f4f7-7302-4d0b-8043-9b4edd8c882c.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-27e9f4f7-7302-4d0b-8043-9b4edd8c882c.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2224,7 +2224,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "95810290abd27d52fdb7bb7185afd7e9edc1924ffb253c4276236797d9dcb197",
       "module_checksum_sha256": "95810290abd27d52fdb7bb7185afd7e9edc1924ffb253c4276236797d9dcb197",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-327048ba-15aa-455b-8719-6de7af3fa2a2.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-327048ba-15aa-455b-8719-6de7af3fa2a2.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2249,7 +2249,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "7b9a2c89d03bcacc29d2504b7de686804d522a4f2ab52f78aa51770da57215b7",
       "module_checksum_sha256": "7b9a2c89d03bcacc29d2504b7de686804d522a4f2ab52f78aa51770da57215b7",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-3a8566e8-be5e-42dc-9a4f-c82c4327d325.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-3a8566e8-be5e-42dc-9a4f-c82c4327d325.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2274,7 +2274,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "078580d907d40e14793484c9572ffb4e833e8b1b793076973b4cd6e57b04fa77",
       "module_checksum_sha256": "078580d907d40e14793484c9572ffb4e833e8b1b793076973b4cd6e57b04fa77",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-489b1e23-3e89-4a1d-8cbe-ef5902603bdc.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-489b1e23-3e89-4a1d-8cbe-ef5902603bdc.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2299,7 +2299,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "df6a796568ecc2ec85bca4a0d7e300aabcea47c749cbfb2cad4537867fbd3ffc",
       "module_checksum_sha256": "df6a796568ecc2ec85bca4a0d7e300aabcea47c749cbfb2cad4537867fbd3ffc",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-5009cbdf-13d2-468d-a6c5-e133efec41d6.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-5009cbdf-13d2-468d-a6c5-e133efec41d6.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2324,7 +2324,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "50c1865448e7ad57aa785e0eb8b27701643a2b348ea65b9821afb4a0bf362da1",
       "module_checksum_sha256": "50c1865448e7ad57aa785e0eb8b27701643a2b348ea65b9821afb4a0bf362da1",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-665bb7ec-14d1-45db-8b46-6d2861e1f251.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-665bb7ec-14d1-45db-8b46-6d2861e1f251.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2349,7 +2349,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "6c1a971ad49ec16d6abedccff36cd05c3e904ae271e8bbb7a5fb0fabe9f80387",
       "module_checksum_sha256": "6c1a971ad49ec16d6abedccff36cd05c3e904ae271e8bbb7a5fb0fabe9f80387",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-7780b408-cb78-4ade-8305-d8881c90c643.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-7780b408-cb78-4ade-8305-d8881c90c643.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2374,7 +2374,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "0ec610c9847e960b42de465678a91af0bd910c85745aaf506567dfb7721b46e2",
       "module_checksum_sha256": "0ec610c9847e960b42de465678a91af0bd910c85745aaf506567dfb7721b46e2",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-79c6dfc0-e66e-430b-9907-5dce228a51be.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-79c6dfc0-e66e-430b-9907-5dce228a51be.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2399,7 +2399,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "40577d2c55415f6a28fcefb6b80b0e661e8a24a3d754108292e9661d35e7330c",
       "module_checksum_sha256": "40577d2c55415f6a28fcefb6b80b0e661e8a24a3d754108292e9661d35e7330c",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-7c16a314-b8c8-42ee-ba43-3e416205b2cb.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-7c16a314-b8c8-42ee-ba43-3e416205b2cb.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2424,7 +2424,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "fa1638ee7d72ec6b543636528e6db0d4b547c38e098289a287419a0157f6daa6",
       "module_checksum_sha256": "fa1638ee7d72ec6b543636528e6db0d4b547c38e098289a287419a0157f6daa6",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-81529aef-84d0-475d-ad7c-3087ce46fd74.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-81529aef-84d0-475d-ad7c-3087ce46fd74.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2449,7 +2449,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "230b77f91d88441e099b3cbb0f8e4aef7f8fddf1bbadf06b32d313ef9700ba11",
       "module_checksum_sha256": "230b77f91d88441e099b3cbb0f8e4aef7f8fddf1bbadf06b32d313ef9700ba11",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-8417c749-0334-45fe-a116-e8fc9ec6d37b.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-8417c749-0334-45fe-a116-e8fc9ec6d37b.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2474,7 +2474,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "b1182abc275cd0abc3ab7efa5cf740cc9700b90eab29a5f495f88805efd647ed",
       "module_checksum_sha256": "b1182abc275cd0abc3ab7efa5cf740cc9700b90eab29a5f495f88805efd647ed",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-86ed2e8d-6fe2-42fa-adce-83c721b3ef59.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-86ed2e8d-6fe2-42fa-adce-83c721b3ef59.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2499,7 +2499,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "c699006fc99e37d55f033c4e8c7705c02c72a57f36008941724ed00ac7aa3c6f",
       "module_checksum_sha256": "c699006fc99e37d55f033c4e8c7705c02c72a57f36008941724ed00ac7aa3c6f",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-8ecc5ff3-78fb-45f4-9427-d77a09da028f.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-8ecc5ff3-78fb-45f4-9427-d77a09da028f.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2524,7 +2524,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "5fd37e07d6fcc58cfd756125d2bf6b697d4fb228e4eaa44adb5dcf7478ac7a4a",
       "module_checksum_sha256": "5fd37e07d6fcc58cfd756125d2bf6b697d4fb228e4eaa44adb5dcf7478ac7a4a",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-90c3e5db-dc04-4c9a-bf16-f5c6f69a9426.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-90c3e5db-dc04-4c9a-bf16-f5c6f69a9426.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2549,7 +2549,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "3f00688e1e57e80306a3adb94bcd52cf2a7cfc89a911daef9b7005fe93e314df",
       "module_checksum_sha256": "3f00688e1e57e80306a3adb94bcd52cf2a7cfc89a911daef9b7005fe93e314df",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-a2b43f46-68b7-47e4-95fa-41fa69687f33.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-a2b43f46-68b7-47e4-95fa-41fa69687f33.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2574,7 +2574,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "e112e83297cb94e7ab5b29eb28a704f7a1e4dfec5cbdb3e6f005130271d25d0f",
       "module_checksum_sha256": "e112e83297cb94e7ab5b29eb28a704f7a1e4dfec5cbdb3e6f005130271d25d0f",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-b006090a-3ed2-4e58-bf30-2942438856b1.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-b006090a-3ed2-4e58-bf30-2942438856b1.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2599,7 +2599,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "91f48d8f5e1f56edd5e7ca125b3233ff3379e3cd8d7de38301a24fbad1196bb8",
       "module_checksum_sha256": "91f48d8f5e1f56edd5e7ca125b3233ff3379e3cd8d7de38301a24fbad1196bb8",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-d392912b-3e7e-402f-90ed-be46753437f3.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-d392912b-3e7e-402f-90ed-be46753437f3.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2624,7 +2624,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "a937d3cc137e38cc52a1962b9b564d1da70f540d9f489bc3e7083a923270196e",
       "module_checksum_sha256": "a937d3cc137e38cc52a1962b9b564d1da70f540d9f489bc3e7083a923270196e",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-d7bd75d1-ae12-427a-88d8-5ddec3a099c7.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-d7bd75d1-ae12-427a-88d8-5ddec3a099c7.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2649,7 +2649,7 @@
       "profile_file": "profile.yaml",
       "profile_checksum_sha256": "fc1b10e0826282848a2579b869579f034b52971cf2ee11735178bdb097042c29",
       "module_checksum_sha256": "fc1b10e0826282848a2579b869579f034b52971cf2ee11735178bdb097042c29",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/llm-e5d45ba8-8e0b-4e12-abc9-97af03109531.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/llm-e5d45ba8-8e0b-4e12-abc9-97af03109531.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2678,7 +2678,7 @@
       "profile_file": "",
       "profile_checksum_sha256": "",
       "module_checksum_sha256": "fb5464c4f2ff6cda88dc47a96eda81374ee3f72681acf73505cc54d440e474ed",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/synthesizer-pattern-markdown.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/synthesizer-pattern-markdown.zip",
       "compatibility": {
         "danwa_min_version": "2.2.0",
         "danwa_max_version": null
@@ -2711,7 +2711,7 @@
       "profile_file": "",
       "profile_checksum_sha256": "",
       "module_checksum_sha256": "6d69b104cd251647b45b3a3a56d6d31d6f9f461ee68fcc0618bc431b11cc9b8d",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/tts-fishspeech.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/tts-fishspeech.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2746,7 +2746,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "e591348d3e1fc9500e097fc68e914f8f6b2649d5622bbb47c6dedf239b751445",
       "module_checksum_sha256": "e591348d3e1fc9500e097fc68e914f8f6b2649d5622bbb47c6dedf239b751445",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-0599c248-6a80-59a6-987e-94f362913ee6.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-0599c248-6a80-59a6-987e-94f362913ee6.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2777,7 +2777,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "7bdb5fa0c5ba865bb7f80c1ac7378d139b6bdbc19083c93ea0876fc5bfe94243",
       "module_checksum_sha256": "7bdb5fa0c5ba865bb7f80c1ac7378d139b6bdbc19083c93ea0876fc5bfe94243",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-0993982b-d7aa-5995-85e4-da6defaa5170.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-0993982b-d7aa-5995-85e4-da6defaa5170.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2808,7 +2808,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "988199dfba59b70978a15f9500efa07669161900d1bf91c3b32f4f378a2d15c5",
       "module_checksum_sha256": "988199dfba59b70978a15f9500efa07669161900d1bf91c3b32f4f378a2d15c5",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.1/lp-17356281-5c7a-5ad3-b519-134fe8512b77.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.1/lp-17356281-5c7a-5ad3-b519-134fe8512b77.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2839,7 +2839,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "dcc1baf4eaa74746611aad0c6b3dfddb0f751b042b4856d8368cb063788daec9",
       "module_checksum_sha256": "dcc1baf4eaa74746611aad0c6b3dfddb0f751b042b4856d8368cb063788daec9",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-1ae9e56e-bb70-5d9b-97fd-c5ad5f6bdcbf.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-1ae9e56e-bb70-5d9b-97fd-c5ad5f6bdcbf.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2870,7 +2870,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "006ec734cf99adde4afc1eadf1d2b389076d8a01b4c68e3a526d96ef4460ad9a",
       "module_checksum_sha256": "006ec734cf99adde4afc1eadf1d2b389076d8a01b4c68e3a526d96ef4460ad9a",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.1/lp-1c9b5f88-062b-5129-a8d0-5619e8375f4c.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.1/lp-1c9b5f88-062b-5129-a8d0-5619e8375f4c.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2901,7 +2901,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "0a909eed5f420a4add41fa97f410486d2e8ef76c08a35262d51ca7a3c5b0f55b",
       "module_checksum_sha256": "0a909eed5f420a4add41fa97f410486d2e8ef76c08a35262d51ca7a3c5b0f55b",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-21fd02ff-18e8-5f50-9d3b-0482eada2274.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-21fd02ff-18e8-5f50-9d3b-0482eada2274.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2932,7 +2932,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "0e8326542b20f43a83cda4372bf203e93004133321ab8d6a5879912f2a89bfa8",
       "module_checksum_sha256": "0e8326542b20f43a83cda4372bf203e93004133321ab8d6a5879912f2a89bfa8",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-253f3036-4cf6-506c-a1ef-c5d6a5b7dc5f.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-253f3036-4cf6-506c-a1ef-c5d6a5b7dc5f.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2963,7 +2963,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "e9c8435a0cf80b85b79af2520db2d03f6e1974a601f4cb48d706cd27dc78fac6",
       "module_checksum_sha256": "e9c8435a0cf80b85b79af2520db2d03f6e1974a601f4cb48d706cd27dc78fac6",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-35c21d64-e7d1-5043-88bc-af781be5ee4a.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-35c21d64-e7d1-5043-88bc-af781be5ee4a.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -2994,7 +2994,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "0b8f79585a0c755ca624f6bba1b02e2b0080de1e0be1dabf6dbb767a7d9b6033",
       "module_checksum_sha256": "0b8f79585a0c755ca624f6bba1b02e2b0080de1e0be1dabf6dbb767a7d9b6033",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-3d0e9a69-bbd6-5865-8819-584362483b41.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-3d0e9a69-bbd6-5865-8819-584362483b41.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3025,7 +3025,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "d28cd2160705dae81b55ba61dc4ed89a4d16a3bd4f057f05da465fb437ed9e68",
       "module_checksum_sha256": "d28cd2160705dae81b55ba61dc4ed89a4d16a3bd4f057f05da465fb437ed9e68",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-3fbe155f-c512-591c-85d6-6ceb7331004c.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-3fbe155f-c512-591c-85d6-6ceb7331004c.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3056,7 +3056,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "d1e54d04e0820f08fc0bd2ead12d7e48a4df0135518c3e47972c80d0324c0975",
       "module_checksum_sha256": "d1e54d04e0820f08fc0bd2ead12d7e48a4df0135518c3e47972c80d0324c0975",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-42b5911a-3895-5ea8-a9c9-458113e56033.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-42b5911a-3895-5ea8-a9c9-458113e56033.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3087,7 +3087,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "1f67b680291aeb04a12777b01552d32930948d386ca162114416fca346d626f9",
       "module_checksum_sha256": "1f67b680291aeb04a12777b01552d32930948d386ca162114416fca346d626f9",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-43c5cb8c-d528-5bdb-aaea-694e2e60c966.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-43c5cb8c-d528-5bdb-aaea-694e2e60c966.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3118,7 +3118,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "07e4f9f497112c1e0c9dbf7f837492b882a06069e20915d5cda4e6ea9cc793b1",
       "module_checksum_sha256": "07e4f9f497112c1e0c9dbf7f837492b882a06069e20915d5cda4e6ea9cc793b1",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-4c9574e3-8bb9-5efe-9409-4f767fa861fd.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-4c9574e3-8bb9-5efe-9409-4f767fa861fd.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3149,7 +3149,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "1465e63239ba88f28e71c9a4585234f3e3ae758933b3d22cc882c66b97a64e19",
       "module_checksum_sha256": "1465e63239ba88f28e71c9a4585234f3e3ae758933b3d22cc882c66b97a64e19",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-4d3cc677-b644-533e-ade3-3dc30fe27e23.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-4d3cc677-b644-533e-ade3-3dc30fe27e23.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3180,7 +3180,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "bcedde50d4f012d7d8f114595bb8c2f44a48ba4f83d4a6defbe24e44a6079fa0",
       "module_checksum_sha256": "bcedde50d4f012d7d8f114595bb8c2f44a48ba4f83d4a6defbe24e44a6079fa0",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-4e2b8ae2-19cf-5f7a-93d2-16c988b26728.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-4e2b8ae2-19cf-5f7a-93d2-16c988b26728.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3211,7 +3211,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "dbcd84f1cd565d7f1a33502825792bbef76c0801fe58a26375923af977806116",
       "module_checksum_sha256": "dbcd84f1cd565d7f1a33502825792bbef76c0801fe58a26375923af977806116",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-542246cc-4124-5985-82e4-ece68fdd5d4b.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-542246cc-4124-5985-82e4-ece68fdd5d4b.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3240,7 +3240,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "7809e5457b98bd562c8c1c9593a2a079345802cb4ee4995a13a8a14f7160ca36",
       "module_checksum_sha256": "7809e5457b98bd562c8c1c9593a2a079345802cb4ee4995a13a8a14f7160ca36",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-56c06a13-b736-509e-963c-48ac3dbe5940.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-56c06a13-b736-509e-963c-48ac3dbe5940.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3271,7 +3271,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "51be27f7ad05357d6911e5e1e82fb75c9450529fae9ae24ca7f24b0ac3a0c7e3",
       "module_checksum_sha256": "51be27f7ad05357d6911e5e1e82fb75c9450529fae9ae24ca7f24b0ac3a0c7e3",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-5b8e4620-c211-5a44-8fd2-40345e5b632c.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-5b8e4620-c211-5a44-8fd2-40345e5b632c.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3302,7 +3302,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "d28cd2160705dae81b55ba61dc4ed89a4d16a3bd4f057f05da465fb437ed9e68",
       "module_checksum_sha256": "d28cd2160705dae81b55ba61dc4ed89a4d16a3bd4f057f05da465fb437ed9e68",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-606cb3ea-dea2-55e9-b1bc-f8421f298220.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-606cb3ea-dea2-55e9-b1bc-f8421f298220.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3333,7 +3333,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "d26163d8abcc46af7ce8964b4435e5157ff67b8d6b7b5992e73e1743d33128fc",
       "module_checksum_sha256": "d26163d8abcc46af7ce8964b4435e5157ff67b8d6b7b5992e73e1743d33128fc",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-61243d77-a3cc-5d51-a1ce-29bbfa9bbc5b.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-61243d77-a3cc-5d51-a1ce-29bbfa9bbc5b.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3364,7 +3364,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "884792142934df7e8d6d1a17101173d67e288433ba8ad4d52f914bd7c3bef4cb",
       "module_checksum_sha256": "884792142934df7e8d6d1a17101173d67e288433ba8ad4d52f914bd7c3bef4cb",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-65400509-5165-5b26-bf07-556f486567d5.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-65400509-5165-5b26-bf07-556f486567d5.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3395,7 +3395,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "236f29850e51ffce01c4903ecbe7461db8f9cbb96da22406bed06328991ea71b",
       "module_checksum_sha256": "236f29850e51ffce01c4903ecbe7461db8f9cbb96da22406bed06328991ea71b",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-69fbe96e-fb3c-5404-ac11-db4ef4471118.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-69fbe96e-fb3c-5404-ac11-db4ef4471118.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3426,7 +3426,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "80adcc2e83a4440bc330e7592e8b5c69b23a8c0096f7a038e01fddca3d33ba7a",
       "module_checksum_sha256": "80adcc2e83a4440bc330e7592e8b5c69b23a8c0096f7a038e01fddca3d33ba7a",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.1/lp-6a4a88da-8fb2-5ab1-afa3-daf85e3d9eb0.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.1/lp-6a4a88da-8fb2-5ab1-afa3-daf85e3d9eb0.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3457,7 +3457,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "3f253da0e5f9c9826facb25e89e36ad8bd735316be1aefa16acfda110e89ad66",
       "module_checksum_sha256": "3f253da0e5f9c9826facb25e89e36ad8bd735316be1aefa16acfda110e89ad66",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-6e49c06a-2099-509b-8d2e-bf996badc0f0.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-6e49c06a-2099-509b-8d2e-bf996badc0f0.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3488,7 +3488,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "336da0c4995bbd8c49fe06acbeb02e32998185b71d3ffe1d526adb0fb662258f",
       "module_checksum_sha256": "336da0c4995bbd8c49fe06acbeb02e32998185b71d3ffe1d526adb0fb662258f",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-714b77a5-6100-50cf-9454-fd29afa48da7.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-714b77a5-6100-50cf-9454-fd29afa48da7.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3519,7 +3519,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "bbe320f254d39ca98098ad40317841bbf20673fac08c23003b889059ab05dd96",
       "module_checksum_sha256": "bbe320f254d39ca98098ad40317841bbf20673fac08c23003b889059ab05dd96",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-7510fb3d-b330-5ffb-9a45-aac75f66263b.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-7510fb3d-b330-5ffb-9a45-aac75f66263b.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3550,7 +3550,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "76496c9d15ea2e0dd9fd44dff763d25ff9b2753dbd89c2bca52444df2aa93699",
       "module_checksum_sha256": "76496c9d15ea2e0dd9fd44dff763d25ff9b2753dbd89c2bca52444df2aa93699",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.1/lp-7cf6bd11-15fd-5ab2-b9e3-ae89d46366de.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.1/lp-7cf6bd11-15fd-5ab2-b9e3-ae89d46366de.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3581,7 +3581,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "8f823ed664ab12c8fb23054b615c404f1976216bd32b762960b3553775dc4fcb",
       "module_checksum_sha256": "8f823ed664ab12c8fb23054b615c404f1976216bd32b762960b3553775dc4fcb",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-7d4c6f6d-2a0c-5034-a5f3-b8c3a069d070.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-7d4c6f6d-2a0c-5034-a5f3-b8c3a069d070.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3612,7 +3612,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "9823b43954a2232d2c310ea8ec64e3a3316db2dfbf41e431666e492cdb7b3704",
       "module_checksum_sha256": "9823b43954a2232d2c310ea8ec64e3a3316db2dfbf41e431666e492cdb7b3704",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-7e38637d-5077-515c-a6aa-96e1fef5e639.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-7e38637d-5077-515c-a6aa-96e1fef5e639.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3643,7 +3643,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "22b62c6da70508489aeca8725d7db486c12489843d320e6d77b75ecf80845e7a",
       "module_checksum_sha256": "22b62c6da70508489aeca8725d7db486c12489843d320e6d77b75ecf80845e7a",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-814c29a9-9927-5f0e-a0e0-d6cc95166908.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-814c29a9-9927-5f0e-a0e0-d6cc95166908.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3674,7 +3674,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "e36f32801b2b8e7e4fb3f5ed07118d8864f010c918aa3a7978246a47505a7544",
       "module_checksum_sha256": "e36f32801b2b8e7e4fb3f5ed07118d8864f010c918aa3a7978246a47505a7544",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-85b848ab-1214-55c3-8f6f-39d9a0c400d2.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-85b848ab-1214-55c3-8f6f-39d9a0c400d2.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3705,7 +3705,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "037cadaef849571a248415098b5f95a1809d3bb7820c72a5b41bb1203f748e31",
       "module_checksum_sha256": "037cadaef849571a248415098b5f95a1809d3bb7820c72a5b41bb1203f748e31",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-987f6f04-9471-5806-88b2-a0bd6d263851.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-987f6f04-9471-5806-88b2-a0bd6d263851.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3736,7 +3736,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "2d25b20b54d20bce2dd9dc42ddaf48bad6eecfc8f67665dd201016d3005895f4",
       "module_checksum_sha256": "2d25b20b54d20bce2dd9dc42ddaf48bad6eecfc8f67665dd201016d3005895f4",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-9c42b4d4-4485-564c-9589-bf056f7cc591.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-9c42b4d4-4485-564c-9589-bf056f7cc591.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3766,7 +3766,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "1a427e1f1b7aabbe16bdb02a27b0f022fc987e2a8616e50cd509b34d41e886e4",
       "module_checksum_sha256": "1a427e1f1b7aabbe16bdb02a27b0f022fc987e2a8616e50cd509b34d41e886e4",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-9c9f3280-f7f5-5495-80c0-7bc5fc7ca853.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-9c9f3280-f7f5-5495-80c0-7bc5fc7ca853.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3797,7 +3797,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "4d097219d71c9494b2250c9d8b0c39d6cd8ecfbc45c4a4b9c61684e7c36f1e1e",
       "module_checksum_sha256": "4d097219d71c9494b2250c9d8b0c39d6cd8ecfbc45c4a4b9c61684e7c36f1e1e",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.1/lp-abc9cd36-afbb-50aa-9a30-0e98cb1effa7.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.1/lp-abc9cd36-afbb-50aa-9a30-0e98cb1effa7.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3828,7 +3828,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "099527ff2e92a280105cf66f8098d9896c3532bae99052c3e5eace09c776b5b2",
       "module_checksum_sha256": "099527ff2e92a280105cf66f8098d9896c3532bae99052c3e5eace09c776b5b2",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-ac59885c-55c5-5bf5-a6a2-c9971ed4b5ca.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-ac59885c-55c5-5bf5-a6a2-c9971ed4b5ca.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3859,7 +3859,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "dceff6f473214fe966a73665165317df91d958d6c7e2660f3693e24d40c472c9",
       "module_checksum_sha256": "dceff6f473214fe966a73665165317df91d958d6c7e2660f3693e24d40c472c9",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-af154b2a-f674-5abe-a1ed-3b404e098d5e.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-af154b2a-f674-5abe-a1ed-3b404e098d5e.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3890,7 +3890,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "1dfcd649a07667fc3cb8be10e51be9b8f779966af24e0cb08be0ea9516c9d1f2",
       "module_checksum_sha256": "1dfcd649a07667fc3cb8be10e51be9b8f779966af24e0cb08be0ea9516c9d1f2",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-b36b1ab9-1a6a-5252-a28e-8c10f69e062d.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-b36b1ab9-1a6a-5252-a28e-8c10f69e062d.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3921,7 +3921,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "5ed5bf3f1b18ba80705113363e617fbe55d4b2fa3a28499017e26a82d94bcc9a",
       "module_checksum_sha256": "5ed5bf3f1b18ba80705113363e617fbe55d4b2fa3a28499017e26a82d94bcc9a",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-b56d91d1-27b7-5b18-9d2b-51d852fd0435.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-b56d91d1-27b7-5b18-9d2b-51d852fd0435.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3952,7 +3952,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "69273a57a40d04dbed3bfc0a9cf73cb545de3f5a548e1011f43e94dca36bc958",
       "module_checksum_sha256": "69273a57a40d04dbed3bfc0a9cf73cb545de3f5a548e1011f43e94dca36bc958",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-b6655fa9-73d8-5f1f-847a-42b53550b89c.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-b6655fa9-73d8-5f1f-847a-42b53550b89c.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -3983,7 +3983,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "dd12a700e6c6dd3c13d05c913d95cbd836d10b01cf99183b54223210a18db5ea",
       "module_checksum_sha256": "dd12a700e6c6dd3c13d05c913d95cbd836d10b01cf99183b54223210a18db5ea",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-b6c34845-a79b-550a-a415-9f74f7d88a49.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-b6c34845-a79b-550a-a415-9f74f7d88a49.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4014,7 +4014,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "fd709a0b50433c35bf1cb26d5f3ebc1acc40db6378978ee52f5e281b0325b80e",
       "module_checksum_sha256": "fd709a0b50433c35bf1cb26d5f3ebc1acc40db6378978ee52f5e281b0325b80e",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-b6e67faf-ba63-5b11-82d3-7940ebed07ee.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-b6e67faf-ba63-5b11-82d3-7940ebed07ee.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4045,7 +4045,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "465b43b468d83b95d1bf338d874b0fd94887f1083627309d08229aed23de623a",
       "module_checksum_sha256": "465b43b468d83b95d1bf338d874b0fd94887f1083627309d08229aed23de623a",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-b80d0e71-e5b2-5cc6-90e9-892ebd5d0947.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-b80d0e71-e5b2-5cc6-90e9-892ebd5d0947.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4076,7 +4076,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "97eec727a3d420f5ee5dbb3fe6157a47ef3ad41f3525e00c1a9617e51c0fa674",
       "module_checksum_sha256": "97eec727a3d420f5ee5dbb3fe6157a47ef3ad41f3525e00c1a9617e51c0fa674",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-b87f1865-70c4-5ab8-931a-0e4bb6039982.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-b87f1865-70c4-5ab8-931a-0e4bb6039982.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4107,7 +4107,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "9d5d20317aa4e61f34294349736526932535537f9a7613c9362e0c242b703271",
       "module_checksum_sha256": "9d5d20317aa4e61f34294349736526932535537f9a7613c9362e0c242b703271",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-c0cf9e9a-b309-5b25-b260-cf2338857741.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-c0cf9e9a-b309-5b25-b260-cf2338857741.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4138,7 +4138,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "81f0defd515eced3f5489e8a05492151376cfc7d3a481c322faeaa566d52f1ab",
       "module_checksum_sha256": "81f0defd515eced3f5489e8a05492151376cfc7d3a481c322faeaa566d52f1ab",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-c0f0dfd8-ab77-50a9-bba4-78568b803d19.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-c0f0dfd8-ab77-50a9-bba4-78568b803d19.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4169,7 +4169,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "ab005adeb94e09e2da00997875dc88f86510cd66214ca5386f8ff44554f83a0f",
       "module_checksum_sha256": "ab005adeb94e09e2da00997875dc88f86510cd66214ca5386f8ff44554f83a0f",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-cd27c6dc-f430-5395-95e6-b0aca56c45f3.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-cd27c6dc-f430-5395-95e6-b0aca56c45f3.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4200,7 +4200,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "d9da9f5b3a1c399776fe686ff5ceaf0b89694399928a81b1644cfd1bb3c6848b",
       "module_checksum_sha256": "d9da9f5b3a1c399776fe686ff5ceaf0b89694399928a81b1644cfd1bb3c6848b",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-d01df308-dee3-5d23-9711-16a509b92318.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-d01df308-dee3-5d23-9711-16a509b92318.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4231,7 +4231,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "1241e7257ea3e6274b53673fb43c0bdaf9269919afa7518c40d34e463d7b27cc",
       "module_checksum_sha256": "1241e7257ea3e6274b53673fb43c0bdaf9269919afa7518c40d34e463d7b27cc",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-d7e0de1c-5272-5396-bd38-f0e4bc183330.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-d7e0de1c-5272-5396-bd38-f0e4bc183330.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4261,7 +4261,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "c363c0ac4fb6e16b8792209db72f2d2b3dd4e2997d77a1ad324d239e12fbcd1f",
       "module_checksum_sha256": "c363c0ac4fb6e16b8792209db72f2d2b3dd4e2997d77a1ad324d239e12fbcd1f",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-da99ab77-0442-5b7b-aa4c-3c72f9d917c3.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-da99ab77-0442-5b7b-aa4c-3c72f9d917c3.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4292,7 +4292,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "073a69af5efa23fb3487b2ab0a72278d0d7a260e1f6360fe36d4e4b6acd3b186",
       "module_checksum_sha256": "073a69af5efa23fb3487b2ab0a72278d0d7a260e1f6360fe36d4e4b6acd3b186",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-df5fa8c1-33f3-5df7-9704-14ec1be9deed.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-df5fa8c1-33f3-5df7-9704-14ec1be9deed.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4323,7 +4323,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "d06d0041501351726fa0b4752bd44ea8caaac2d152cfcbbef3ab90fef0318d80",
       "module_checksum_sha256": "d06d0041501351726fa0b4752bd44ea8caaac2d152cfcbbef3ab90fef0318d80",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.1/lp-e1c639cb-7e2f-51f6-bb5c-82e1cf6d10a0.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.1/lp-e1c639cb-7e2f-51f6-bb5c-82e1cf6d10a0.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4354,7 +4354,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "9fb87d46f141b29e2c05eb386974dc4a0b51543b665a0c018e150366a2122148",
       "module_checksum_sha256": "9fb87d46f141b29e2c05eb386974dc4a0b51543b665a0c018e150366a2122148",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.1/lp-e4e7e431-315f-5623-9bc0-35de0ec3d9b8.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.1/lp-e4e7e431-315f-5623-9bc0-35de0ec3d9b8.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4385,7 +4385,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "978be0cd0aedc556602929f3fa360d1dbcf7a4f4e7ffbd679559bd22e5316f64",
       "module_checksum_sha256": "978be0cd0aedc556602929f3fa360d1dbcf7a4f4e7ffbd679559bd22e5316f64",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.1/lp-e8b1afd7-a5c3-55f0-b17f-87d4dd1a62a2.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.1/lp-e8b1afd7-a5c3-55f0-b17f-87d4dd1a62a2.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4416,7 +4416,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "7b53ebe894e00061016dba60bb492ff6a412bb46db9f4db92b279a2826602322",
       "module_checksum_sha256": "7b53ebe894e00061016dba60bb492ff6a412bb46db9f4db92b279a2826602322",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-ee6f5673-27d2-5496-8252-b0fc0dbc26b9.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-ee6f5673-27d2-5496-8252-b0fc0dbc26b9.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4447,7 +4447,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "03203a0850b173c39bd5a96527d0bdd219f6da0b2a2f265b9bfa1403721173d3",
       "module_checksum_sha256": "03203a0850b173c39bd5a96527d0bdd219f6da0b2a2f265b9bfa1403721173d3",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-f893f846-0d8a-5407-b556-4c1d6bd7507d.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-f893f846-0d8a-5407-b556-4c1d6bd7507d.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4478,7 +4478,7 @@
       "profile_file": "ui_strings.json",
       "profile_checksum_sha256": "ad316b32b2ced8a9199d7a48b376d76865804ddd45b80c2f9827194613fdef53",
       "module_checksum_sha256": "ad316b32b2ced8a9199d7a48b376d76865804ddd45b80c2f9827194613fdef53",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/lp-fe13af57-3664-5057-859e-a4c900d1e56e.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/lp-fe13af57-3664-5057-859e-a4c900d1e56e.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4507,7 +4507,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "8795c024c49c14805ffc2f86c5a50307ae54b9efb46a1f7262e0c703da3aac48",
       "module_checksum_sha256": "8795c024c49c14805ffc2f86c5a50307ae54b9efb46a1f7262e0c703da3aac48",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/wt-0fc61cc2-1b0e-5faa-8902-dde536aae4fa.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/wt-0fc61cc2-1b0e-5faa-8902-dde536aae4fa.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4539,7 +4539,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "c50ffdb77ee8531675df9ae10993c8a114cc7c496a5a9feb93d106776e2e4ca1",
       "module_checksum_sha256": "c50ffdb77ee8531675df9ae10993c8a114cc7c496a5a9feb93d106776e2e4ca1",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/wt-1d51285c-ab45-5c37-b765-ca1cb524b3bd.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/wt-1d51285c-ab45-5c37-b765-ca1cb524b3bd.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4571,7 +4571,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "318c3eb0781c46122feeaddccf06eae6b423e141eeff37dd6d6716e6110cee10",
       "module_checksum_sha256": "318c3eb0781c46122feeaddccf06eae6b423e141eeff37dd6d6716e6110cee10",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/wt-3f7f1e0f-f88d-5f2b-94b5-f4075f237019.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/wt-3f7f1e0f-f88d-5f2b-94b5-f4075f237019.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4603,7 +4603,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "4d36f118105c83ac4010d128019ae9f2362cad434f56d3f09c811b898c95d0a9",
       "module_checksum_sha256": "4d36f118105c83ac4010d128019ae9f2362cad434f56d3f09c811b898c95d0a9",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v2.0.0/wt-a0f02bc8-271c-589f-8430-d5321eb6de6c.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v2.0.0/wt-a0f02bc8-271c-589f-8430-d5321eb6de6c.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4635,7 +4635,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "04328f9980020eaf1219fe38047b0d4e94f0ba9857a769e26315df78d9e26714",
       "module_checksum_sha256": "04328f9980020eaf1219fe38047b0d4e94f0ba9857a769e26315df78d9e26714",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/wt-a19298f0-13fb-58fc-820f-49861aaa6383.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/wt-a19298f0-13fb-58fc-820f-49861aaa6383.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4668,7 +4668,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "71fea6989e720b1d8512f34a3ec84525060dccebd1788c818500764a2eed0e44",
       "module_checksum_sha256": "71fea6989e720b1d8512f34a3ec84525060dccebd1788c818500764a2eed0e44",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/wt-b7e63a6c-8af0-58a3-b251-574ccb4bdb89.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/wt-b7e63a6c-8af0-58a3-b251-574ccb4bdb89.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4699,7 +4699,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "531213d4707345303ee18f2bc7d5e90f743c769556195df7179cecb7774cb750",
       "module_checksum_sha256": "b2ed3f39f8de62fefa08419619511a7adb3cdad1de9a553b88824ecd040c413f",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/wt-c924122c-5abd-5b5c-b87c-11ae5fdcfff5.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/wt-c924122c-5abd-5b5c-b87c-11ae5fdcfff5.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null
@@ -4732,7 +4732,7 @@
       "profile_file": "profile.json",
       "profile_checksum_sha256": "1f3e4e031ddfd67eb59db8684fe8ede713c5a6824c723eb10858bcfd07ba398e",
       "module_checksum_sha256": "1f3e4e031ddfd67eb59db8684fe8ede713c5a6824c723eb10858bcfd07ba398e",
-      "download_url": "https://github.com/asb-42/danwa-modules/releases/download/v1.0.0/wt-db138af5-8587-5c28-86ae-0f0252b6a80d.zip",
+      "download_url": "https://github.com/Saga-AI-Labs/danwa-modules/releases/download/v1.0.0/wt-db138af5-8587-5c28-86ae-0f0252b6a80d.zip",
       "compatibility": {
         "danwa_min_version": "2.1.0",
         "danwa_max_version": null

@@ -19,7 +19,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
 TRANSLATIONS_DIR = ROOT / "ui-translations"
-REPO_URL = "https://github.com/asb-42/danwa-modules"
+REPO_URL = "https://github.com/Saga-AI-Labs/danwa-modules"
 DANWA_MIN_VERSION = "2.1.0"
 
 

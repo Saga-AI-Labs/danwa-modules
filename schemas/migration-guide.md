@@ -58,7 +58,7 @@ None — all v2 fields remain valid in v3.
 {
   "repository": {
     "type": "github",
-    "url": "https://github.com/asb-42/danwa-modules",
+    "url": "https://github.com/Saga-AI-Labs/danwa-modules",
     "ref": "v1.0.0"
   }
 }
@@ -152,7 +152,7 @@ danwa-modules/
   },
   "repository": {
     "type": "github",
-    "url": "https://github.com/asb-42/danwa-modules",
+    "url": "https://github.com/Saga-AI-Labs/danwa-modules",
     "ref": "v1.0.0"
   }
 }
